@@ -21,6 +21,8 @@ alias v='vim'
 alias vi='vim'
 alias vv='mvim'
 
+alias c='clear'
+
 # alias sort='LC_ALL=C sort'
 #
 # alias :q='exit'

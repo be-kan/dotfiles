@@ -10,4 +10,6 @@ tmp/
 .idea/
 *.iml
 venv
-__pycache__
+*__pycache__*
+CMakeLists.txt
+cmake-build-debug/
